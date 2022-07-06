@@ -1,3 +1,33 @@
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 200;
+}
+
 .flex {
     display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 0;
+}
+
+img {
+    max-width: 90%;
+    height: auto;
 }
