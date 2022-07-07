@@ -65,16 +65,23 @@ p {
     background-color: #EDF5F6;
     background-image: url(icons/food.png);
     background-repeat: no-repeat;
-    padding-top: 10px;
+    padding-top: 25px;
 }
 
 #shelter-for-family {
     background-color: #FFEEEE;
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    padding-top: 25px;
+
 }
 
 #education-for-child {
 
     background-color: #FFF4D6;
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    padding-top: 25px;
 }
 
 img {
